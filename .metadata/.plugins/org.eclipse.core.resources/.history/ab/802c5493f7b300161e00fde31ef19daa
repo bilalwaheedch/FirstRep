@@ -1,0 +1,14 @@
+package MainPackage;
+import java.util.*;
+public class testTable {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner in = new Scanner(System.in);
+		Table printTable = new Table();
+		System.out.println("Enter the value: ");
+		int x = in.nextInt();
+		printTable.printTable(x);
+	}
+
+}

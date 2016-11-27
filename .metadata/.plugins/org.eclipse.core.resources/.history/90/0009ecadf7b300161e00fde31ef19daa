@@ -1,0 +1,9 @@
+package MainPackage;
+
+public class Table {
+	public void printTable(x){
+		for(i=0,i<=12,i++)
+			System.out.println(x+" x "+i" = "+ x*i);
+	}
+
+}

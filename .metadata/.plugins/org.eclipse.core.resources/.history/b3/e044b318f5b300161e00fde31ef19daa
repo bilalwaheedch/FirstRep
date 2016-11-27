@@ -1,0 +1,15 @@
+package Package2;
+
+public class House {
+
+		// TODO Auto-generated method stub
+		public int address;
+		public String houseName;
+	
+	public void tvShows(String x){
+		System.out.println("Watching TV Show: "+x);
+	}
+		
+	}
+
+

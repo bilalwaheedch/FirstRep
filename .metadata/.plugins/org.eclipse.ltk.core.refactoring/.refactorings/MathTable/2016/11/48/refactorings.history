@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Inline local variable &apos;MainPackage.testTable.main().in&apos; in &apos;MainPackage.testTable.main()&apos;&#x0A;- Original project: &apos;MathTable&apos;&#x0A;- Original element: &apos;MainPackage.testTable.main().in&apos;" description="Inline local variable &apos;in&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/src&lt;MainPackage{testTable.java" selection="156 27" stamp="1480179914347" version="1.0"/>&#x0A;&#x0A;&#x0A;</session>
